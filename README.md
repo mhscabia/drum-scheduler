@@ -2,6 +2,17 @@
 
 A full-stack web application for scheduling practice sessions in a drum school. Students can book time slots for practice rooms, and administrators can manage users, rooms, and view all bookings with user details.
 
+## 🎯 Project Purpose
+
+This project was created as a learning experience to explore and understand **Large Language Models (LLM)** and **AI-powered development workflows** using **GitHub Copilot**. The goal was to:
+
+- **Learn AI-Assisted Development**: Understand how AI agents can accelerate software development
+- **Explore LLM Capabilities**: Experiment with how AI can help with code generation, debugging, and problem-solving
+- **GitHub Copilot Integration**: Master the use of GitHub Copilot for intelligent code suggestions and automated coding assistance
+- **Full-Stack Development**: Build a complete application while leveraging AI tools throughout the development process
+
+This drum school scheduling application serves as a practical, real-world project to demonstrate the power of AI-assisted development and the potential of LLM technology in modern software engineering.
+
 ## 🆕 Latest Updates
 
 - **Timezone Handling Fix**: Improved validation for time slot bookings to properly handle timezones
