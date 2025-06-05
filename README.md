@@ -267,7 +267,19 @@ drum-school-scheduling/
 │   │   └── App.js          # Main app component
 │   ├── package.json
 │   └── Dockerfile
+├── docs/                    # Project documentation
+│   ├── implementation summaries
+│   ├── troubleshooting guides
+│   └── feature documentation
+├── scripts/                 # Utility scripts
+│   ├── startup scripts
+│   └── docker configurations
+├── tests/                   # Test files
+│   ├── API tests
+│   ├── feature tests
+│   └── test utilities
 ├── docker-compose.yml
+├── TESTING_GUIDE.md
 └── README.md
 ```
 
